@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+  background-color: #04060f;
+  color: white;
+  font-size: 3em;
+}
+.kuephoto {
+	width: 700px;
+	height: auto;
+	border-radius: 5%;
+}
+.parent-box {
+	width: 1000px;
+	height: 5500px;
+	background-color: #606060;
+	border-radius: 20px;
+	opacity: 0.8;
+	margin: 0 auto;
+}
+.description {
+	font-size: 30px;
+	font-style: italic;
+}
+.content-title {
+	font-size: 1.5em;
+	font-style: italic;
+}
+.item-list {
+	font-size: 25px;
+	text-align: left;
+}
+li {
+	margin-bottom: 20px;
+}
+.container {
+	width: 800px;
+	height: 500px;
+	margin: 0 auto;
+}
+
+

@@ -1,0 +1,70 @@
+body {
+    background-color: #04060f;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 3em;
+}
+.martabak-photo {
+    height: auto;
+    width: 400px;
+    position: relative;
+    border-radius: 50%;
+}
+
+.content {
+    font-size: 30px;
+    background-color: #606060;
+    height: 6000px;
+    width: 800px;
+    margin: 0 auto;
+    border-radius: 20px;
+    opacity: 0.8;
+}
+
+.description {
+    position: relative;
+    font-size: 2em;
+    right: 20px;
+    font-style: italic;
+}
+.martext {
+    position: relative;
+    font-size: 23px;
+}
+.item-pic {
+    border-radius: 25px;
+}
+.flavour {
+    text-align: left;
+    font-size: 20px;
+}
+li {
+    padding-bottom: 20px;
+}
+.underline {
+    width: 600px;
+    height: 3px;
+    background-color: azure;
+    border-radius: 50%;
+    padding: 2px;
+    position: relative;
+    left: 95px;
+    top: 2px;
+}
+.topping {
+    position: relative;
+}
+.nutrition {
+    position: absolute;
+    left: 20px;
+}
+.container {
+    position: relative;
+    right: -70px;
+    width: 650px;
+    height: 400px;
+}
+.vid-des {
+    font-size: 15px;
+}
